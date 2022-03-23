@@ -1,4 +1,4 @@
-# Image-acquisition-from-web-camera
+# Image-Acquisition-from-Web-Camera
 ## Aim
 To write a program to capture the image from the web camera.
 ## Software Used
